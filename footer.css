@@ -1,0 +1,13 @@
+footer{
+    width: 100%;
+    text-align: center;
+    padding: 1.5rem;
+    box-shadow: inset 0px 0px 4px 0px rgba(0, 0, 0, 0.5);
+    background-color: var(--white);
+}
+
+footer p {
+    color: #00348A;
+    font-size: 1rem;
+    font-weight: 300;
+}
